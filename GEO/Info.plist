@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>RadioHere</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>crystal.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.iphonium.radiohere</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>net.conceptdevelopment.InitiateCall01</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>initdial</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>SBUsesNetwork</key>
+	<false/>
+	<key>UIInterfaceOrientation</key>
+	<string>UIInterfaceOrientationPortrait</string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIRequiresPersistentWiFi</key>
+	<false/>
+	<key>UIStatusBarHidden</key>
+	<false/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleOpaqueBlack</string>
+</dict>
+</plist>
