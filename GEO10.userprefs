@@ -6,7 +6,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="GEO/Main.cs">
     <Files>
       <File FileName="GEO/GeoController.cs" Line="231" Column="6" />
-      <File FileName="GEO/Main.cs" Line="36" Column="75" />
+      <File FileName="GEO/Main.cs" Line="27" Column="32" />
       <File FileName="../samples/MapCallouts/MainViewController.cs" Line="30" Column="4" />
       <File FileName="GEO/Towers.cs" Line="55" Column="50" />
       <File FileName="GEO/Delegates.cs" Line="164" Column="25" />
