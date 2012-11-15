@@ -57,10 +57,11 @@
     <OutputPath>bin\iPhone\Release</OutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <CodesignKey>iPhone Developer: George Bray (2AUP45GRG6)</CodesignKey>
+    <CodesignKey>iPhone Distribution</CodesignKey>
     <AssemblyName>GEO2</AssemblyName>
     <SignAssembly>True</SignAssembly>
-    <MtouchSdkVersion>3.0</MtouchSdkVersion>
+    <IpaPackageName />
+    <MtouchI18n />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Distribution|iPhone' ">
     <DebugType>none</DebugType>
