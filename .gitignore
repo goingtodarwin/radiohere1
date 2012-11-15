@@ -1,2 +1,8 @@
 GEO/bin/*
 GEO/obj/*
+
+*.userprefs
+
+.DS_Store
+
+GEO10.userprefs
