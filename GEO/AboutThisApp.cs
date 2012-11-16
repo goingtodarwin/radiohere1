@@ -32,7 +32,7 @@ namespace GEO2
 		{
 			//StartGPS();
 			base.ViewDidLoad ();
-			this.crystal.Image = UIImage.FromFile("crystal.png");
+			//this.crystal.Image = UIImage.FromFile("crystal.png");
 			this.background.Image = UIImage.FromFile("geobkg.png");
 		}
 	}

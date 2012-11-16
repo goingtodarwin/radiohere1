@@ -33,12 +33,12 @@ namespace GEO2
 		{
 			this.aboutThisApp.ModalTransitionStyle = UIModalTransitionStyle.FlipHorizontal;
 
-			this.geoController.PresentModalViewController(this.aboutThisApp, true);
+			this.geoController.PresentViewController(this.aboutThisApp, true,null);
 		}
 		
 		public void FlipToMain()
 		{
-			this.geoController.DismissModalViewControllerAnimated(true);
+			this.geoController.DismissViewController(true,null);
 		}
 		
 		public override void ReceiveMemoryWarning(UIApplication application)

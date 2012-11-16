@@ -119,17 +119,18 @@
     <Content Include="radiohere.sqlite" />
     <Content Include="gps.png" />
     <Content Include="geobkg.png" />
-    <Content Include="Default.png" />
     <Content Include="iphonenav.css" />
     <Content Include="iphonenav.js" />
     <Content Include="iphonenav.html" />
     <Content Include="iPhoneArrow.png" />
     <Content Include="info.png" />
-    <Content Include="crystal.png" />
     <Content Include="57.png" />
     <Content Include="114.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="Info.plist" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Default.png" />
   </ItemGroup>
 </Project>
